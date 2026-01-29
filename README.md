@@ -1,6 +1,6 @@
 💪 Projeto Natty or Not: IA ou Natural?
 
-![Natty or Not] (https://github.com/Arthur-999/lab-natty-or-not/raw/main/Imagem hiper-realist.png) 
+![Natty or Not] (https://github.com/Arthur-999/lab-natty-or-not/raw/main/Imagem-hiper-realist.png) 
 
 📒 Descrição
 
